@@ -1,6 +1,6 @@
 ### hi, i'm omar.  
 i'm a software engineer at [10mi2](https://tenmilesquare.com/).  
-for more about me, check out [omarokla.com](https://omarokla.com).
+for more about me, check out [omarokla.com](https://omarokla.com).  
 for more from me, follow me on twitter [@omar_okla](https://twitter.com/omar_okla).
 
 
