@@ -1,5 +1,4 @@
-### hi,
-### i'm omar okla
+### hi, i'm omar.
 
 i'm a software engineer currently working at [Ten Mile Square](https://tenmilesquare.com/).
 
