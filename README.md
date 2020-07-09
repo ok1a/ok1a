@@ -1,4 +1,11 @@
-### Hi there 👋
+### hi,
+### i'm omar okla
+
+i'm a software engineer currently working at [Ten Mile Square](https://tenmilesquare.com/).
+
+for more about me, check out [omarokla.com](https://omarokla.com).
+for more from me, follow me on twitter [@omar_okla](https://twitter.com/omar_okla).
+
 
 <!--
 **ok1a/ok1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
