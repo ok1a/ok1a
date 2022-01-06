@@ -1,7 +1,9 @@
 ### hi, i'm okla. 
-for more about me, you can checkout my portfolio ~~here~~[removed temporarily].
+for more about me, you can checkout my portfolio ~~here~~*.
 
 for more from me, follow me on twitter [@0xOkla](https://twitter.com/0xOkla).
+
+*temporarily removed*
 
 
 <!--
